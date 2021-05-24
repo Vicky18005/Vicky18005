@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bsc.Computer Science in UWU.
 - 📫 How to reach me 
               vickneshyo@gmail.com
-              Viccknesh Yo on FB
+              Vicknesh Yo on FB
 
 <!---
 Vicky18005/Vicky18005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
